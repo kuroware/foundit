@@ -1,0 +1,930 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mysqli_real",
+				"mysqli_real_escape_string()"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"japanese",
+				"japanese_lyrics"
+			],
+			[
+				"song",
+				"song_id"
+			],
+			[
+				"getlyr",
+				"getLyricsRequestSite"
+			],
+			[
+				"getLyri",
+				"getLyricsRequest"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_row()"
+			],
+			[
+				"strpos",
+				"strpos()"
+			],
+			[
+				"get",
+				"getLength"
+			],
+			[
+				"inject",
+				"injectable_string"
+			],
+			[
+				"english",
+				"english_lyrics"
+			],
+			[
+				"intg",
+				"integer_1"
+			],
+			[
+				"reuslt_check",
+				"result_check_friendship"
+			],
+			[
+				"comment",
+				"comment_id_array"
+			],
+			[
+				"result_get_all",
+				"result_get_all_comment_info"
+			],
+			[
+				"get_all",
+				"get_all_info_sql"
+			],
+			[
+				"get_user",
+				"get_current_user()"
+			],
+			[
+				"edit_reques",
+				"edit_request_submit"
+			],
+			[
+				"get_number_of_fa",
+				"get_number_of_favorites_slot  (function)"
+			],
+			[
+				"att",
+				"attempt_login  (variable)"
+			],
+			[
+				"eneter",
+				"entered_password"
+			],
+			[
+				"entered",
+				"entered_username"
+			],
+			[
+				"starting",
+				"starting_number"
+			],
+			[
+				"Subtract",
+				"Subtract_Square_AI"
+			],
+			[
+				"possible",
+				"possible_moves"
+			],
+			[
+				"start",
+				"starting_player"
+			],
+			[
+				"play",
+				"player_moved  (variable)"
+			],
+			[
+				"game",
+				"game_state"
+			],
+			[
+				"played",
+				"player_moved"
+			],
+			[
+				"Start",
+				"StartScreen"
+			],
+			[
+				"player",
+				"player_moved"
+			],
+			[
+				"pla",
+				"player_to_move  (variable)"
+			],
+			[
+				"current",
+				"current_number"
+			],
+			[
+				"player_to",
+				"player_to_move"
+			],
+			[
+				"ai",
+				"ai_move"
+			],
+			[
+				"copu",
+				"compute_move"
+			],
+			[
+				"cu",
+				"current_number  (variable)"
+			],
+			[
+				"to",
+				"player_to_move"
+			],
+			[
+				"startin",
+				"starting_number"
+			],
+			[
+				"deplete",
+				"deplete_move_tree"
+			],
+			[
+				"legal",
+				"legal_move"
+			],
+			[
+				"curre",
+				"current_player_move"
+			],
+			[
+				"curren",
+				"current_number"
+			],
+			[
+				"curr",
+				"current_player_move  (variable)"
+			],
+			[
+				"function",
+				"function_supplied"
+			],
+			[
+				"stats",
+				"stats_array  (variable)"
+			],
+			[
+				"result_insert",
+				"result_insertcomment  (variable)"
+			],
+			[
+				"insert",
+				"insertStr"
+			],
+			[
+				"result",
+				"result_insertcomment"
+			],
+			[
+				"func_get",
+				"func_get_args"
+			],
+			[
+				"commen",
+				"comment_status"
+			],
+			[
+				"fl",
+				"filters_sel"
+			],
+			[
+				"total",
+				"total_filters"
+			],
+			[
+				"feedbac",
+				"feedbackarray"
+			],
+			[
+				"u_id",
+				"u_id_array"
+			],
+			[
+				"create",
+				"createsnapshot"
+			],
+			[
+				"top",
+				"topfiltersarray"
+			],
+			[
+				"parent",
+				"parenttypes"
+			],
+			[
+				"replace",
+				"replacekey"
+			],
+			[
+				"dbc",
+				"dbc_shufflr_data"
+			],
+			[
+				"reslt",
+				"resultfetchreply"
+			],
+			[
+				"feth",
+				"fetchreplyStr"
+			],
+			[
+				"dbc_shufflr",
+				"dbc_shufflr_data"
+			],
+			[
+				"resul",
+				"resultfetchcomments"
+			],
+			[
+				"db",
+				"dbc_shufflr_data"
+			],
+			[
+				"move",
+				"moveStr  (variable)"
+			],
+			[
+				"drop",
+				"droptableStr"
+			],
+			[
+				"quer",
+				"querycheck  (variable)"
+			],
+			[
+				"dbc_shu",
+				"dbc_shufflr_data"
+			],
+			[
+				"Create",
+				"createfhStr"
+			],
+			[
+				"dbc_shuff",
+				"dbc_shufflr"
+			],
+			[
+				"check",
+				"checkStr"
+			],
+			[
+				"dbc_shuf",
+				"dbc_shufflr_data"
+			],
+			[
+				"func_",
+				"func_get_args"
+			],
+			[
+				"tabe",
+				"tablecountStr"
+			],
+			[
+				"dbc_shuffl",
+				"dbc_shufflr_data"
+			],
+			[
+				"update",
+				"update_recordsStr"
+			],
+			[
+				"filter",
+				"filter_checkStr"
+			],
+			[
+				"select",
+				"selectStr"
+			],
+			[
+				"existing",
+				"existing_filters"
+			],
+			[
+				"filters_a",
+				"filters_array"
+			],
+			[
+				"Row",
+				"row_existing_filters"
+			],
+			[
+				"feed",
+				"feedback_u_id"
+			],
+			[
+				"userna",
+				"usernameStr"
+			],
+			[
+				"u_",
+				"u_id_array  (variable)"
+			],
+			[
+				"array_sear",
+				"array_search()"
+			],
+			[
+				"in_arry",
+				"in_array()"
+			],
+			[
+				"message",
+				"messages_dataStr"
+			],
+			[
+				"see",
+				"seenStr"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"me",
+				"messageStr  (variable)"
+			],
+			[
+				"result_to",
+				"result_to_username_id  (variable)"
+			],
+			[
+				"Result",
+				"result_check_new_message"
+			],
+			[
+				"mes",
+				"messages_dataStr  (variable)"
+			],
+			[
+				"seriali",
+				"serialize()"
+			],
+			[
+				"upda",
+				"updatefriendsStr"
+			],
+			[
+				"reonse",
+				"response_friend_request"
+			],
+			[
+				"query",
+				"query_del"
+			],
+			[
+				"result_lower",
+				"result_lower_Str  (variable)"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"reponse",
+				"response_check"
+			],
+			[
+				"top_fi",
+				"top_filters_daily  (variable)"
+			],
+			[
+				"ben",
+				"bench_query"
+			],
+			[
+				"total_t",
+				"total_tables_check"
+			],
+			[
+				"result_grab",
+				"result_grab_post_data  (variable)"
+			],
+			[
+				"fet",
+				"fetch_u_id"
+			],
+			[
+				"dbc_",
+				"dbc_shufflr_data"
+			],
+			[
+				"content",
+				"contentStr"
+			],
+			[
+				"row",
+				"row_post_data"
+			],
+			[
+				"rand",
+				"rand_user_id  (variable)"
+			],
+			[
+				"ini_set",
+				"ini_set()"
+			],
+			[
+				"dbc_shul",
+				"dbc_shufflr_data  (variable)"
+			],
+			[
+				"result_find",
+				"result_find_total_sum  (variable)"
+			],
+			[
+				"by_user",
+				"by_user_id"
+			],
+			[
+				"REsult",
+				"result_fetch_username"
+			],
+			[
+				"Dbc_shu",
+				"dbc_shufflr_data"
+			],
+			[
+				"filter_to_",
+				"filter_to_show  (variable)"
+			],
+			[
+				"array_filter",
+				"array_filter()"
+			],
+			[
+				"mysqli_feth",
+				"mysqli_fetch_row()"
+			],
+			[
+				"query_fin",
+				"query_find_total_rating"
+			],
+			[
+				"next",
+				"next_most_recent_aggregate_sum  (variable)"
+			],
+			[
+				"result_fetch",
+				"result_fetch_aggregate_sum  (variable)"
+			],
+			[
+				"aggregate",
+				"aggregate_sum"
+			],
+			[
+				"arra",
+				"array_keys"
+			],
+			[
+				"dbc_shufflr_",
+				"dbc_shufflr_data  (variable)"
+			],
+			[
+				"array_sea",
+				"array_search()"
+			],
+			[
+				"table",
+				"table_data  (variable)"
+			],
+			[
+				"profile",
+				"profile_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Python_cmd.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"sublimelinter",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"sublimecode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"# Windows where php.exe",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Package Control: Install Package",
+			"colorsublime:install theme",
+			"colorsublime",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/anime_billboard/angularjs/display_song.js",
+		"/C/xampp/htdocs/bf/fh_leaderboard.php",
+		"/C/xampp/htdocs/anime_billboard/get_song.php",
+		"/C/xampp/htdocs/anime_billboard/angularjs/get_song.php",
+		"/C/xampp/htdocs/anime_billboard/add_song.php",
+		"/C/xampp/htdocs/anime_billboard/profile.php",
+		"/C/xampp/htdocs/anime_billboard/anime.php",
+		"/C/xampp/connectvars.php",
+		"/C/xampp/htdocs/anime_billboard/dashboard.php",
+		"/C/xampp/htdocs/anime_billboard/objects.php",
+		"/C/xampp/htdocs/anime_billboard/navbar.php",
+		"/C/xampp/htdocs/anime_billboard/retrieve_get.php",
+		"/C/xampp/htdocs/anime_billboard/angularjs/display_sog.js",
+		"/C/xampp/htdocs/anime_billboard/send_get.php",
+		"/C/xampp/htdocs/anime_billboard/search_song.php",
+		"/C/xampp/htdocs/anime_billboard/register.php",
+		"/C/xampp/htdocs/anime_billboard/php-soundcloud-master/Services/Soundcloud.php",
+		"/C/xampp/htdocs/project118/includes/objects/objects.php",
+		"/C/xampp/htdocs/anime_billboard/login.php",
+		"/C/xampp/htdocs/anime_billboard/display_song.php",
+		"/C/xampp/htdocs/anime_billboard/js/jquery-notebook-master/gulpfile.js",
+		"/C/xampp/htdocs/anime_billboard/js/jquery-notebook-master/style.css",
+		"/C/xampp/htdocs/project-118/online/nearme.php",
+		"/C/xampp/htdocs/anime_billboard/ticker.js",
+		"/C/xampp/htdocs/anime_billboard/approve_lyrics.php",
+		"/C/xampp/htdocs/anime_billboard/logout.php",
+		"/C/xampp/htdocs/anime_billboard/style.css",
+		"/C/xampp/htdocs/anime_billboard/connectvars.php",
+		"/C/Y1/game_view.py",
+		"/C/Y1/CSC148/shape.py",
+		"/C/Y1/CSC148/game1.py",
+		"/C/Y1/CSC148/game_view.py",
+		"/C/Y1/CSC148/point.py",
+		"/C/Y1/CSC148/stack.py",
+		"/C/Y1/CSC148/lecture1.py",
+		"/C/Y1/CSC148/triangle.py",
+		"/C/Y1/CSC148/square.py",
+		"/C/Y1/CSC148/examplepoint.py",
+		"/C/Y1/CSC148/game.py",
+		"/C/Users/ptsang/AppData/Roaming/Sublime Text 3/Packages/User/pythoncmd.sublime-build",
+		"/C/Users/ptsang/AppData/Roaming/Sublime Text 3/Packages/User/Python_cmd.sublime-build",
+		"/C/Users/ptsang/Downloads/braveblank-master (1)/braveblank-master/brave-blank/page-vote-float-table.php",
+		"/C/Users/ptsang/Dropbox/delete_post.sql",
+		"/C/Users/ptsang/Dropbox/multipurpose_update.sql",
+		"/C/Python/stack.py",
+		"/C/Users/ptsang/Dropbox/elo_enigne_r2.php",
+		"/C/xampp/htdocs/Shufflr_Test/populate_loremipsum.php",
+		"/C/xampp/htdocs/Shufflr/function_r1.php",
+		"/C/xampp/htdocs/Shufflr/datamine_host.php",
+		"/C/xampp/htdocs/Shufflr/last_week_position.php",
+		"/C/xampp/htdocs/Shufflr/dev_options.php",
+		"/C/xampp/htdocs/Shufflr/datamine2.php",
+		"/C/xampp/htdocs/Shufflr/datamine hahhaa.php",
+		"/C/xampp/htdocs/Shufflr_Test/reset_session.php",
+		"/C/Users/ptsang/Downloads/braveblank-master (1)/braveblank-master/brave-blank/includes/bfp-connector/bfp_connector_view.php",
+		"/C/Users/ptsang/Downloads/braveblank-master (1)/braveblank-master/brave-blank/includes/bfp-connector/bfp_connector_model.php",
+		"/C/Users/ptsang/Downloads/braveblank-master (1)/braveblank-master/brave-blank/page-team-builder.php",
+		"/C/xampp/htdocs/Shufflr/navbar.php",
+		"/C/xampp/htdocs/Shufflr/style.css",
+		"/C/xampp/htdocs/Shufflr/dashboard.php",
+		"/C/xampp/htdocs/Shufflr/filter_update.php",
+		"/C/xampp/htdocs/Shufflr_Test/function_r1.php",
+		"/C/xampp/htdocs/Shufflr/connectvars.php",
+		"/C/xampp/htdocs/Shufflr_Test/home_page_r5.php",
+		"/C/xampp/htdocs/Shufflr_Test/filter_engine.php",
+		"/C/xampp/htdocs/Shufflr_Test/snapshot_engine.php",
+		"/C/xampp/htdocs/Shufflr_Test/navbar.php",
+		"/C/xampp/htdocs/Shufflr_Test/update_aggregate_backend.php",
+		"/C/xampp/htdocs/Shufflr_Test/comment_engine.php",
+		"/C/xampp/htdocs/Shufflr_Test/salinna.php",
+		"/C/xampp/htdocs/Shufflr_Test/refresh_database.php",
+		"/C/xampp/htdocs/Shufflr_Test/functions.php",
+		"/C/xampp/htdocs/Shufflr_Test/sel_test.php",
+		"/C/xampp/htdocs/Shufflr_Test/removepost.php",
+		"/C/xampp/htdocs/Shufflr_Test/populate_loremipsum_2.php",
+		"/C/xampp/htdocs/Shufflr_Test/populate_master_table.php",
+		"/C/xampp/htdocs/Shufflr_Test/delete_engine.php",
+		"/C/xampp/htdocs/Shufflr_Test/filterupdatelorem.php",
+		"/C/xampp/htdocs/Shufflr_Test/update_filter_history.php",
+		"/C/xampp/htdocs/Shufflr_Test/display_profile_functions.php",
+		"/C/xampp/htdocs/Shufflr_Test/modcolumndatatype.php",
+		"/C/xampp/htdocs/Shufflr_Test/insert_engine_r4.php",
+		"/C/Users/ptsang/Downloads/shufflr_data (2).sql",
+		"/C/Users/ptsang/Downloads/shufflr_test.sql",
+		"/C/Users/ptsang/Downloads/shufflr_data.sql",
+		"/C/xampp/htdocs/Shufflr_Test/connectvars.php",
+		"/C/xampp/htdocs/Shufflr_Test/display_profile_r2.php",
+		"/C/xampp/htdocs/Shufflr_Test/dump_test.php",
+		"/C/xampp/htdocs/Shufflr_Test/display_profile_r1.php",
+		"/C/xampp/htdocs/Shufflr_Test/create_posts_table.php",
+		"/C/xampp/htdocs/Shufflr_Test/checkanswers.php",
+		"/C/xampp/htdocs/Shufflr_Test/calculator.php",
+		"/C/xampp/htdocs/Brave Frontier Table Vote/datamine.py",
+		"/C/xampp/htdocs/Brave Frontier Table Vote/datamine.php",
+		"/C/xampp/htdocs/Shufflr_Test/display_profile.php",
+		"/C/xampp/htdocs/Shufflr_Test/insert_post.php",
+		"/C/xampp/htdocs/Shufflr_Test/shufflr_home_engine.php",
+		"/C/xampp/htdocs/Brave Frontier Table Vote/table.php",
+		"/C/xampp/htdocs/Brave Frontier Table Vote/connectvars.php",
+		"/C/xampp/htdocs/Shufflr_Test/tier code.php",
+		"/C/xampp/htdocs/Shufflr_Test/php test.php",
+		"/C/xampp/htdocs/Shufflr_Test/addlikesdislikes.php",
+		"/C/xampp/htdocs/Shufflr_Test/inbox.php",
+		"/C/xampp/htdocs/Shufflr_Test/average_all_users.php",
+		"/C/xampp/htdocs/Shufflr_Test/addfriend.php",
+		"/C/xampp/htdocs/Shufflr_Test/home_page_r3.php",
+		"/C/xampp/htdocs/Shufflr_Test/copyright.txt",
+		"/C/xampp/htdocs/Shufflr_Test/filter_new.php",
+		"/C/xampp/htdocs/Shufflr_Test/filters.php",
+		"/C/xampp/htdocs/Shufflr_Test/time_decay.php",
+		"/C/Users/ptsang/Downloads/float_test.php",
+		"/C/xampp/htdocs/Shufflr_Test/insert_engine.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/Shufflr_Test/display_message.php",
+		"/C/xampp/htdocs/Shufflr_Test/trash_inbox.php",
+		"/C/xampp/htdocs/Shufflr_Test/new_filter.php",
+		"/C/xampp/htdocs/Shufflr_Test/sent_inbox.php",
+		"/C/xampp/htdocs/Shufflr_Test/filter.php",
+		"/C/xampp/htdocs/Shufflr_Test/delete_post.php",
+		"/C/xampp/htdocs/Shufflr_Test/feedback engine r1.php",
+		"/C/xampp/htdocs/Shufflr_Test/send_message.php",
+		"/C/xampp/htdocs/Shufflr_Test/sciprt.php",
+		"/C/xampp/htdocs/Shufflr_Test/sciprt",
+		"/C/xampp/htdocs/Shufflr_Test/removefriend.php",
+		"/C/xampp/htdocs/Shufflr_Test/message_engine.php",
+		"/C/xampp/htdocs/Shufflr_Test/add_total_share_col.php",
+		"/C/xampp/htdocs/Shufflr_Test/jquery.livegraph.js",
+		"/C/xampp/htdocs/Shufflr_Test/jquery.min.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"comments",
+			"is_logg",
+			"update_gamestate",
+			"player_name",
+			"current_user_id",
+			"$parentID",
+			"$user_id",
+			"home_page_r5.php",
+			"intermediary",
+			";\n",
+			"$current_user_id",
+			"\\\".",
+			"$_session",
+			"$user_id",
+			"8",
+			"$user_id",
+			"filter",
+			"create database",
+			"error querying to insert into table",
+			"$filter",
+			"posts_",
+			"= ",
+			"\\",
+			"NOTICE",
+			"$lower",
+			"\");\n",
+			"echo",
+			"total_share",
+			"$mysqli",
+			"sel_test",
+			"\";\n",
+			"filter_load",
+			"show",
+			"$dbc_shufflr",
+			"}\n",
+			"images",
+			"find_share",
+			"insert_into_shuffl",
+			"profile_comments",
+			"aggregate",
+			"aggregate_sum",
+			"friends",
+			"list",
+			"date",
+			"row_posts",
+			"$date",
+			"table_count",
+			"user_data",
+			"expressed",
+			"as",
+			"0",
+			"sesson_destroy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"play_move",
+			"$ParentID",
+			"$current_user_id",
+			"dashboard.php",
+			".",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "project-121.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Y1\\CSC148\\csc148.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
