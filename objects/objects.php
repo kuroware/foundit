@@ -1,13 +1,26 @@
 <?php
 class Dashboard {
+	/*
+	General class for any config settings in the site
+	 */
 	public function __construct() {
 		/*
 		Null -> Null
 		Sets up initial connection parameters
 		 */
-		require_once('../includes/connectvars.php');
+		require_once($_SERVER['DOCUMENT_ROOT'] . '/project-121/includes/connectvars.php');
 		$this->dbc = mysqli_connect(HOST, USER, PASS, DATABASE)
 		or die ("Error connecting to database");
+	}
+
+	public function attempt_login($username, $password) {
+		/*
+		str, hashed password -> bool
+		 */
+		$attempt_login_sql = "SELECT user_id FROM users WHERE username = '$username' AND password = '$password'";
+		$result_attempt_login = mysqli_query($this->dbc, $attempt_login_sql)
+		or die (mysqli_error($this->dbc));
+		return (mysqli_num_rows($result_attempt_login) == 1) ? mysqli_fetch_row($result_attempt_login)[0] : false; 
 	}
 
 	public function sanitize($string) {
@@ -17,8 +30,21 @@ class Dashboard {
 		 */
 		return mysqli_real_escape_string($this->dbc, trim($string));
 	}
+
+	public function is_logged_in() {
+		/*
+		Null -> Boolean
+		Checks if the current user is logged in
+		 */
+		return isset($_SESSION['user_id']) || isset($_COOKIE['user_id']);
+	}
 }
+
+
 class Report extends Dashboard {
+	/*
+	General class for any report filed, needs to be referenced by its unique report id
+	 */
 	public function __construct($report_id) {
 		/*
 		Int -> Null

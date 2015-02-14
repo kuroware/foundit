@@ -1,3 +1,7 @@
+<html app="addItem">
+<head>
+<script src="\angularjs\angular.min.js"></script>
+</head>
 <?php
 require_once('../objects/objects.php');
 $dashboard = new dashboard();
